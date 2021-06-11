@@ -15,3 +15,7 @@ Basket weave: Use "plain" material and set "basket" value to 2 or higher.
 
 1/3twill weave: Use "3/1twill" material. Setting the value of "1/3twill?" to 1, it will be 1/3twill.
 ![1/3twill weave](/picture/1p3twill.png)
+
+2/2twill weave: Use "2/2twill" material. Setting the value of "twill direction" to -1 will invert twill.
+![3/1twill weave](/picture/2p2twill.png)
+
